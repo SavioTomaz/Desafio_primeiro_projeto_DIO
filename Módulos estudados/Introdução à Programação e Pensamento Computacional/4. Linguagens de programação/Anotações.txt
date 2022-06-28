@@ -1,0 +1,93 @@
+1. Introdução à linguagem de programação
+Toda evolução tecnológica inicia pelo hardware, depois parte para o software.
+Assembly, linguagem de máquina. Primeira linguagem.
+
+Tipos de problemas computacionais:
+Problemas de decisão - Exemplo: dado um determinado número n inteiro e positivo, determine se n é primo.
+Problema de busca - Exemplo: X está em A?
+Problema de otimização - Exemplo: maximizar um minimizar uma função.
+
+O que é uma linguagem de programação?
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um *código fonte*.
+
+----------------------------------------
+2. Como um computador entende o programa?
+Através de compilação
+Dado minha linguagem de alto nível (código fonte), ela vai ser enviada para o compilador que vai executar a análise desse código (tradução).
+A tradução passa a linguagem realizada em alto nível para uma linguagem de baixo nível, para que o computador possa interpretar.
+Linguagem de baixo nível (Programa Objeto).
+Já a interpretação o programa fonte é executado diretamente.
+
+Tradução - execução mais rápida. Exemplos de linguagem traduzida: C++ e Java.
+Interpretação - execução mais lenta. Exemplos de linguagem interpretada: JavaScript, Ruby e Python.
+Transpilada - a linguagem de alto nível passa a ser traduzida por uma linguagem também de alto nível, mas em um nível mais baixo. Exemplo: TypeScript é transpilado para JavaScript.
+
+----------------------------------------
+3. Características de um programa
+Diretrizes: legibilidade, redigibilidade, confiabilidade e custo.
+
+Legibilidade
+- Facilidade de leitura.
+- Compreensão.
+- Ortogonalidade (coêrencia).
+- Definição adequada das estruturas.
+
+Redigibilidade
+- Facilidade de escrita de código.
+- Pode ter conflito com a legibilidade.
+- Reuso do código.
+- Expressividade.
+
+Confiabilidade
+- Tratamento de exceções.
+- Compatibilidade.
+- Verificar tipos.
+
+Custo
+- Treinamento.
+- Análise de impacto.
+- Execução.
+
+----------------------------------------
+4. Análises e código
+Análise léxica
+- Primeira fase do processo de compilação, sua função é realizar a leitura do código fonte. Particionar, classificar e eliminar.
+
+Análise sintática
+- Forma como ele define através de palavras reservadas, estruturas, define a corretude do programa. Cada linguagem tem uma análise sintática específica.
+
+Análise semântica
+- Basicamente é a lógica do programa. Erro de semântica: não faz o que é esperado, utilização de símbolos incorretos.
+
+----------------------------------------
+5. Paradigmas de programação
+"Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma, utilizando linguagem de programação."
+
+Classificação
+- Orientado à objeto.
+- Procedural. Chamadas sucessivas, sequência.
+- Funcional. Baseado em funções.
+- Estruturado. Blocos aninhados.
+- Computação distribuída. Funções executadas de forma independente.
+- Lógico.
+
+Paradigma Estruturado
+Sequência, decisão e iteração. Instruções executadas em sequência. Possui performance superior por ser uma linguagem de mais baixo nível.
+
+Orientação à Objeto
+Paradigma de programação baseado na utilização de objetos e suas interações. Análogo ao mundo real. "Um objeto é descrito por características específicas, comportamentos e estado". 
+
+O que eu tenho? (atributos)
+Modelo, cor, carga, corpo, tampa.
+
+Sou capaz de fazer? (métodos)
+Escrever, desenhar, rabiscar, pintar.
+
+Como faço? (estados)
+Tampada, destampada, em uso.
+
+Pilares de Orientação à Objeto
+Herança, Encapsulamento, Polimorfismo e Abstração.
+
+Herança
+- Classe-filha herda as características de uma classe-mãe, mas também pode ter atributos específicos.

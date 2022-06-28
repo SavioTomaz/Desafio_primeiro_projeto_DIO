@@ -1,0 +1,36 @@
+Qual a função do computador?
+Processar as informações, são elas: dados e instruções.
+
+Tipos de dados - inteiros, reais, booleanos e caracteres.
+
+Variável - estrutura que vai receber um tipo de dado. Papéis de uma variável: Ação - modifica de estado. Controle: vigiada.
+
+Constante - mantém o mesmo dado, inalterável.
+
+Intruções Primitivas
+Instrução executa um determinado tipo de ação para manipular um dado.
+
+Estrutura condicional
+Dada uma condição se ela for satisfeita é executada, caso contrário gera uma exceção. Tipos: simples, composta e encadeada.
+
+----------------------------------------------
+
+ESTRUTURAS DE REPETIÇÃO
+
+Laços, controle de fluxo, malhas de repetição, repetição e loop. Essas palavras apresentação um mesmo sentido: repetição.
+
+----------------------------------------------
+
+VETORES E MATRIZES
+
+Vetor é uma variável que possui uma sequência e um tamanho pré-fixado, que irá receber n valores. Pode ser considerado uma matriz: m x n. m = número de linhas e n = número de colunas.
+
+----------------------------------------------
+
+FUNÇÕES (SUB-ROTINAS)
+
+Possibilita que um elemento A possa ser conectado a um elemento de um conjunto B.
+
+----------------------------------------------
+
+INSTRUÇÕES DE ENTRADA/SAÍDA

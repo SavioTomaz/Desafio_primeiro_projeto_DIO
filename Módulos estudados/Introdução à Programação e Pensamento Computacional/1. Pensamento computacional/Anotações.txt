@@ -1,0 +1,31 @@
+RACIOCÍNIO LÓGICO
+O raciocínio lógico é classificado em: indução, dedução e  abdução.
+Indução - a partir de um fenômeno observado é possível induzir algo (você induz que algo acontece a partir de uma observação).
+Dedução - inverso de indução, a partir de leis e teorias é possível deduzir previsões e explicações para um fenômeno.
+Abdução - a partir de uma conclusão é possível supor algo. Ex: A grama está molhada, logo deve ter chovido.
+
+PILARES
+Os pilares são definidos em: decomposição, padrão, abstração e algoritmos.
+---Decomposição:
+Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis. 
+A ordem de execução das tarefas menores pode ser definida em: sequêncial ou paralelo
+Sequêncial - um problema depende do outro.
+Paralelo - problemas são isolados e independentes, podendo ser agrupados após realizados todos.
+
+---Padrões:
+---Abstrações:
+
+---Algoritmos:
+Não opera sozinho, necessita de instruções muito bem detalhadas. Os programas são constituídos pelas instruções, e as instruções são consideradas como um passo-a-passo, o que precisa ser feito? qual a ordem de execução?
+Como construir um algoritmo:
+1. Compreensão do problema;
+2. Definição dados de entrada;
+3. Definir o processamento;
+4. Definir dados de saída;
+5. Utilizar um método de construção;
+6. Teste e diagnóstico.
+
+Métodos
+1. Narrativa - linguagem natural;
+2. Fluxograma - símbolos pré-definidos;
+3. Pseudocódigo - portugol (mais próximo da programação).

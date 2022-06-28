@@ -1,0 +1,12 @@
+O que é lógica?
+Vem para solucionar um problema. "Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não". "Organização e planejamento das intruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa".
+
+Técnicas de lógica de programação
+---Técnica linear
+Execução sequenciada de uma série de operações, recursos limitados. Exemplos: Acordar, levantar, tomar café e ler o jornal.
+
+---Técnica estruturada
+Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato). Exemplo: ter uma condição, mais de uma opção de execução das tarefas, diferente da linear.
+
+---Técnica modular
+Dados de entrada > processamento > dados de saída. Simplicação, decomposição e verificação do módulo.

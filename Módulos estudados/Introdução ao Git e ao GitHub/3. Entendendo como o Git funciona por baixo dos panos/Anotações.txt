@@ -1,0 +1,9 @@
+1. Tópicos fundamentais para entender o funcionamento do Git
+Blob - local onde os arquivos são armazenados.
+Tree - aponta para tipos de blobs diferentes.
+Commit - indica a pessoa que realizou as alterações.
+
+----------------------------
+
+2. Chave SSH e Token
+Chave SSH - forma de estabelecer conexão segura entre duas máquinas (chave pública e privada).

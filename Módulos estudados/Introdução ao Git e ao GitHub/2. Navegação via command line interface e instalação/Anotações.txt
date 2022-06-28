@@ -1,0 +1,10 @@
+1. Comandos básicos para um bom desempenho no terminal
+-dir: listar pastas
+-cd: ir para uma pasta específica
+-cd ..:  voltar para a pasta anterior
+-cls: limpar o terminal
+-mkdir: criar uma pasta
+-echo: apenas exibe a mensagem em seguida
+- echo "mensagem" > Hello.txt: cria um arquivo em texto chamado Hello.txt com a mensagem descrita no campo "mensagem"
+-del: deleta todos os arquivos dentro da pasta
+-rmdir "nome da pasta" /s /q: deleta a pasta e todos os arquivos dentro
