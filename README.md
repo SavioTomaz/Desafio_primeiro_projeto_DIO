@@ -1,2 +1,2 @@
-# Desafio_primeiro_projeto_DIO
-Desafio do primeiro projeto da DIO.
+# Repositório do primeiro desafio de projeto
+ - Realizado pela plataforma da DIO.
